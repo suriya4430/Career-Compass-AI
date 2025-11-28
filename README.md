@@ -1,38 +1,25 @@
-🚀 Features
-1. AI-Powered Resume Feedback
+🚀 About
 
-Uses OpenAI API to analyze resumes
+Career-Compass-AI is an AI-powered platform that guides users in finding the best career paths, skill development recommendations, and matching job opportunities based on their skills and profile. Perfect for freshers, students, and job-seekers looking to make data-driven career decisions.
 
-Provides section-wise improvements
+✨ Features
 
-Highlights missing skills, weak bullet points, and formatting issues
+Personalized Career Suggestions – Tailored recommendations based on skills, experience, and education.
 
-2. Job Matching Engine
+Job Matching Engine – Suggests relevant jobs that fit your profile.
 
-Matches users to jobs based on skills, education, and interests
+Skill Recommendation System – Identifies gaps and suggests skills to boost career prospects.
 
-Calculates compatibility score
+Interactive Dashboard – User-friendly interface for visualizing career insights.
 
-Provides job insights and improvement suggestions
+User Profile Management – Save, update, and track your career progress over time.
 
-3. Skill Recommendation System
+🛠 Tech Stack
 
-Identifies skill gaps
+Frontend: React.js
 
-Recommends in-demand technologies
+Backend: Node.js, Python, Flask
 
-Helps plan career growth paths
+Database: MySQL
 
-4. Interactive Dashboard
-
-Clean and modern career analytics dashboard
-
-Stats for job matches, profile strength, and skills
-
-5. User Profile Management
-
-Add skills, experience, and goals
-
-Data persists using Replit storage or database
-
-Used by backend matching logic
+AI/ML: Pandas, NumPy, Scikit-learn
